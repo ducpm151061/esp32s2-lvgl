@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "lvgl.h": "c",
+        "disp_spi.h": "c",
+        "st7735s.h": "c",
+        "lv_log.h": "c",
+        "lv_examples.h": "c",
+        "lv_demo_keypad_encoder.h": "c",
+        "lv_demo_benchmark.h": "c",
+        "lv_demo_widgets.h": "c"
+    }
+}

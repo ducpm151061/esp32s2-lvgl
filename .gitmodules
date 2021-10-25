@@ -1,0 +1,16 @@
+[submodule "components/lvgl/lvgl"]
+	path = components/lvgl/lvgl
+	url = https://github.com/littlevgl/lvgl.git
+	branch = release/v7
+[submodule "components/lv_examples/lv_examples"]
+	path = components/lv_examples/lv_examples
+	url = https://github.com/littlevgl/lv_examples.git
+	branch = release/v7
+[submodule "components/lv_exampleslv_examples"]
+	path = components/lv_exampleslv_examples
+	url = https://github.com/littlevgl/lv_examples.git
+	branch = release/v7
+[submodule "components/lvgl/components/lvgl/lvgl"]
+	path = components/lvgl/components/lvgl/lvgl
+	url = https://github.com/littlevgl/lvgl.git
+	branch = release/v7
